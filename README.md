@@ -17,7 +17,7 @@ A small game engine written in C/C++ using:
 
 ## Screenshot
 
-![Demo](demo.png)
+![Demo](vroooom/demo.png)
 
 ## Controls
 
