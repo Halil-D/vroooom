@@ -1,0 +1,30 @@
+# Executables
+*.exe
+
+# Object files
+*.obj
+*.o
+
+# Debug files
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj.user
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# Temporary files
+*.tmp
+
+# VS Code
+.vscode/
+
+# Generated assets (optional)
+*.log
